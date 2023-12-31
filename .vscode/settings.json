@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.embeddedhtml": "html",
-        "SJF_1.C": "cpp",
-        "SJF_2.C": "cpp"
-    },
-    "cmake.configureOnOpen": true
-}
