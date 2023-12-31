@@ -48,9 +48,9 @@ This repository contains implementations of various Operating System (OS) algori
 
 ### System Calls
 
-1. **File Management System Calls:** [C Implementation](system%20calls/file%20management%20system%20calls.c)
-2. **Process Management System Calls:** [C Implementation](system%20calls/process%20management.c)
-3. **Zombie Process:** [C Implementation](system%20calls/zombie.c)
+1. **File Management System Calls:** [C Implementation](system%20calls/)
+2. **Process Management System Calls:** [C Implementation](system%20calls/)
+3. **Zombie Process:** [C Implementation](system%20calls/)
 
 ### Unix Commands
 
