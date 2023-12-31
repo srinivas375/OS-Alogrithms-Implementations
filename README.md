@@ -63,5 +63,3 @@ Clone the repository and explore the implementations for each algorithm. Compile
 ```bash
 git clone https://github.com/srinivas375/OS-Algorithms-Implementations.git
 cd OS-Algorithms-Implementations
-# Compile and run C programs
-# Execute Python scripts
